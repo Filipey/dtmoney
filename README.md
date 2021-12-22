@@ -1,10 +1,5 @@
 <h1 align="center"> dtmoney </h1>
 
-<h1 align="center">
-	<br>
-	<img scr="https://prnt.sc/23yla5k" altt="dtmoney" height="125" width="125"
-	     <br>
-</h1>
 
 <p align="center">Aplicação focada no consumo de ferramentas do ecossistema React como Styled Components, MirageJS, Contex API, hooks, Axios e muito mais </p>
 
