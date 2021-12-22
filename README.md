@@ -1,6 +1,6 @@
 <h1 align="center"> dtmoney </h1>
 
-<p align="center">Aplicação focada no consumo de ferramentas do ecossistema React como Styled Components, MirageJS, Contex API, hooks, Axios e muito mais /p>
+<p align="center">Aplicação focada no consumo de ferramentas do ecossistema React como Styled Components, MirageJS, Contex API, hooks, Axios e muito mais </p>
 
 <h4 align="center"> 
 	🚧  dtmoney 🚀 Finalizado 🚧
